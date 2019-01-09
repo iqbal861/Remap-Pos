@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Form Login\Form Login\obj\Debug\Form Login.vbprojAssemblyReference.cache
+C:\Users\User\source\repos\Form Login\Form Login\obj\Debug\Form_Login.form1.resources
+C:\Users\User\source\repos\Form Login\Form Login\obj\Debug\Form_Login.Form2.resources
+C:\Users\User\source\repos\Form Login\Form Login\obj\Debug\Form_Login.Resources.resources
+C:\Users\User\source\repos\Form Login\Form Login\obj\Debug\Form Login.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\Form Login\Form Login\obj\Debug\Form Login.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Form Login\Form Login\bin\Debug\Form Login.exe.config
+C:\Users\User\source\repos\Form Login\Form Login\bin\Debug\Form Login.exe
+C:\Users\User\source\repos\Form Login\Form Login\bin\Debug\Form Login.pdb
+C:\Users\User\source\repos\Form Login\Form Login\bin\Debug\Form Login.xml
+C:\Users\User\source\repos\Form Login\Form Login\bin\Debug\MySql.Data.dll
+C:\Users\User\source\repos\Form Login\Form Login\obj\Debug\Form Login.vbproj.CopyComplete
+C:\Users\User\source\repos\Form Login\Form Login\obj\Debug\Form Login.exe
+C:\Users\User\source\repos\Form Login\Form Login\obj\Debug\Form Login.xml
+C:\Users\User\source\repos\Form Login\Form Login\obj\Debug\Form Login.pdb
